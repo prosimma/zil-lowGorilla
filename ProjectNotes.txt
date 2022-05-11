@@ -1,0 +1,32 @@
+05/10/2022
+
+Application Flow
+
+1. Programming Language - Python
+2. Database - MySql
+3. Cloud - AWS
+4. Serverless?
+    There are multiple examples of web crawlers run from a lambda. 
+    This would be good because it would streghten my infrastructure as code chops
+    It would allow scaling
+    15 minute run limit
+    Cost considerations
+5. Image Recoginition
+    AWS Image Recoginition
+6. Pattern Recoginition - RegEx
+
+
+References:
+
+https://blog.vikfand.com/posts/scrapy-fargate-sls-guide/
+https://aws.amazon.com/blogs/architecture/serverless-architecture-for-a-web-scraping-solution/
+
+Todo:
+
+1. Learn - lambda
+2. Learn - Python
+3. Learn - IoC
+
+Setup
+
+1. Security and Creds
