@@ -27,6 +27,11 @@ Todo:
 2. Learn - Python
 3. Learn - IoC
 4. Learn - Docker
+5. Learn - Git Branching
+6. Learn - CloudFormation
+7. Learn - AWS Security Model 
+
+
 
 Setup
 
