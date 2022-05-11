@@ -26,6 +26,7 @@ Todo:
 1. Learn - lambda
 2. Learn - Python
 3. Learn - IoC
+4. Learn - Docker
 
 Setup
 
