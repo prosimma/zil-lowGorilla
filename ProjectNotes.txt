@@ -37,3 +37,5 @@ Todo:
 Setup
 
 1. Security and Creds
+    Next Step - https://youtu.be/pKPiPplJNak
+    Next Step - https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-resource-iam-role.html
