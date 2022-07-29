@@ -30,6 +30,8 @@ Todo:
 4. Learn - Docker - started
     Docker Desktop is installed
     Docker 101 tutorial is started
+    Finish this - http://localhost/tutorial/our-application/
+        On step two
 5. Learn - Git Branching
 6. Learn - CloudFormation
 7. Learn - AWS Security Model 
