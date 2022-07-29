@@ -37,6 +37,7 @@ Todo:
 7. Learn - AWS Security Model 
     Goal - Script Roles and Users using CloudFormation. Add scripts to a pipeline. Pipelines will be able to freely created and delete users and add, remove and change permissions.  
     Goal - Use AWS tools to create least periviledge security model. 
+8. Learn - AWS CDK tools
 
 
 Setup
