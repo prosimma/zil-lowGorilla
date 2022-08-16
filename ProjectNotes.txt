@@ -48,3 +48,7 @@ Setup
     What is a trust policy?
     AWS Managed policies are a good place to start.
     Least periviledge is a guiding principle
+
+Practice Log
+
+8/15/2022 - Started docker processes and watched docker video. Docker is controlled linux processes. 
